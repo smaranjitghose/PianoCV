@@ -17,7 +17,7 @@ Here you go:
 - Clone or Download this repository ⏬
 - Open the Terminal 🐱‍💻
 - Move inside 👉 the repo 
-```cd PianoCC``` 
+```cd PianoCV``` 
 - Now make sure you have all the dependencies🧱 
   ```pip install -r requirements.txt```
 - Now, the climax you have been waiting for!😎. Run the script using Terminal
